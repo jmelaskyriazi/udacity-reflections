@@ -6,7 +6,7 @@ was introduced?
 How could having easy access to the entire history of a file make you a more
 efficient programmer in the long term?
 
-    Easy to see where changes where made and where bugs were introduced.
+    Easy to see where changes were made and where bugs were introduced.
 
 What do you think are the pros and cons of manually choosing when to create a
 commit, like you do in Git, vs having versions automatically saved, like Google
@@ -22,7 +22,7 @@ files in one commit, while others, like Google Docs, treat each file separately?
 
 How can you use the commands git log and git diff to view the history of files?
 
-    You can get a log off all of the human notes on changes that have been made via git log, and then actually get to see the code changes between any two versions via git diff.
+    You can get a log of all of the human notes on changes that have been made via git log, and then actually get to see the code changes between any two versions via git diff.
 
 How might using version control make you more confident to make changes that
 could break something?
@@ -31,4 +31,4 @@ could break something?
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    TBD
+    So many things.
